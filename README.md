@@ -9,4 +9,4 @@
 
 
 # To do
-* Add comments to different sections of code
+* Add comments to source
